@@ -12,7 +12,7 @@ public class ProyectoJava {
         Scanner leer = new Scanner(System.in);
         String nombre;
         System.out.println("BIENVENIDO");
-        System.out.println("Hola gente");
+        //System.out.println("Hola gente"); 
         System.out.println("ESTA ES UNA PRUEBA DE USO DE GITHUB");
         System.out.println("ingresa tu nombre");
         nombre = leer.next();
