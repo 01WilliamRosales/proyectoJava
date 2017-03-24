@@ -17,7 +17,7 @@ public class ProyectoJava {
         nombre = leer.next();
         System.out.println("Gracias por realizar esta prueba " + nombre + " NOS ESPERA UN LARGO CAMINO");
         int numero;
-        System.out.println("qu tengas un buen dia " + nombre);
+        System.out.println("que tengas un buen dia " + nombre);
     }
     
 }
